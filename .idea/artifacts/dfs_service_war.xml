@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dfs-service:war">
+    <output-path>$PROJECT_DIR$/../dfs-service-all/dfs-service/target</output-path>
+    <root id="archive" name="dfs-service.war">
+      <element id="artifact" artifact-name="dfs-service:war exploded" />
+    </root>
+  </artifact>
+</component>
